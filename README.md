@@ -1,5 +1,4 @@
-# Drive Feature — Corporate Innovation Platform
-
+# 🚀 Corporate Innovation Platform
 An internal full-stack innovation platform built for Skoda Yuce Auto. Employees submit ideas anonymously, which pass through an AI similarity check and a 3-stage evaluation pipeline before reaching an executive Go/No-Go decision. The system includes a points engine, badge system, rewards module, and a real-time notification layer with email.
 
 > **Status:** Live in production — used by 100+ employees at Skoda Yuce Auto
@@ -8,7 +7,7 @@ An internal full-stack innovation platform built for Skoda Yuce Auto. Employees 
 
 ## Screenshots
 
-![Drive Feature Screenshots](docs/Project%20pages%20Screenshots.png)
+![idea-hub](docs/Project%20pages%20Screenshots.png)
 
 ---
 
@@ -215,7 +214,7 @@ Pages redirect unauthorized users to the home page.
 
 ## Author
 
-Built by [Sude Bayhan](https://linkedin.com/in/sude-bayhan) at Skoda Yuce Auto.
+Built by [Sude Bayhan]
 Architecture, database design, all backend routes, business logic, points engine, notification system, and frontend implementation.
 Frontend contributions on select pages provided by a colleague.
 
